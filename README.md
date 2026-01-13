@@ -65,7 +65,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/gsap_macbook_landing.git
+git clone https://github.com/MEGHANA-KALYANI/macbook-landing-gsap/edit/main/README.md
 cd gsap_macbook_landing
 ```
 
@@ -84,11 +84,3 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
-
-## <a name="links">🔗 Assets</a>
-
-Assets and snippets used in the project can be found in the **[video kit](https://jsm.dev/mbook-kit)**.
-
-<a href="https://jsm.dev/mbook-kit" target="_blank">
-  <img src="public/readme/videokit.webp" alt="Video Kit Banner">
-</a>
